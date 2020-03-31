@@ -5,7 +5,7 @@ We have produced 3d visor using the orginal model. To increase the production, w
 
 The model may not be suitable for strict demands and environments such as hospitals, instead use the the orginal from Faceshield.nu.
 
-The printing time takes forever and the model may need adjustments for other 3d printers. 
+The printing takes forever and the model may need adjustments for other 3d printers. 
 
 Printing settings in Autodesk Print Studio
 Draft 
