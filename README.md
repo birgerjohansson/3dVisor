@@ -1,5 +1,5 @@
 # 3dVisor
-This is the Visor_frame_SWEDEN_v10.stl from Faceshield.nu devided into two parts for printing on an old Makerbot Replicator 2. 
+This is the Visor_frame_SWEDEN_v10.stl from Faceshield.nu devided into two parts for printing on the Makerbot Replicator 2. 
 
 We have produced 3d visor using the orginal model. To increase the production, we modified the original model to be able to fit it on a small build plate. The visor is printed in two parts and snapped together.
 
